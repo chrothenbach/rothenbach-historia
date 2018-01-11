@@ -1,15 +1,6 @@
 <h1>Historia de la Familia Rothenbach</h1> 
 <b>Autor:</b> Christian Rothenbach 
 
-<h1> TO DO LIST:</h1>
-Listas sin whitespace
-
-como linkear a archivos de github
-
-ver tema
-https://github.com/pages-themes/hacker
-https://pages-themes.github.io/hacker/
-
 
 <h2>Documentos a ser linkeados (organizar)</h2>
 Actas de matrimonio
