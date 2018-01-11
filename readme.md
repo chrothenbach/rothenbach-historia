@@ -2,9 +2,18 @@
 <b>Autor:</b> Christian Rothenbach 
 
 
-<h2> Test del website</h2> 
+<h2>Documentos a ser linkeados (organizar)</h2>
+Actas de matrimonio
+Arbol familiar nuevo
+Arbol familiar Ramiro
+Sobre el autor: Foto autor
+Escudo Schwabians
+Foto historia del banat
 
-Documentos originales:
+
+<h2> Links externos y demas</h2> 
+
+<h3>Documentos originales:</h3>
 http://freepages.genealogy.rootsweb.ancestry.com/~deutschzerne/Files/Heimatbuch.html
 Backup from Google cache: insertar link
 http://www.dvhh.org/history/
@@ -14,9 +23,9 @@ Actas de matrimonio
 http://www.banatbooks.com/
 foto de facebook historia banat
 
-Grupo en Facebook:
+<h3>Grupo en Facebook:</h3>
 https://www.facebook.com/groups/DVHH.org/
 
-Mailing lists:
+<h3>Mailing lists:</h3>
 https://lists.rootsweb.ancestry.com/index/intl/HUN/DONAUSCHWABEN-VILLAGES.html
 http://www.dvhh.org/community/mail-list.html
