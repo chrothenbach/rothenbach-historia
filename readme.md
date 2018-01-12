@@ -15,6 +15,9 @@ Escudo Schwabians
 
 ![][Foto historia del banat](https://chrothenbach.github.io/rothenbach-historia/2018-01-09%2012.10.02.jpg | width=100)
 
+<img src="https://chrothenbach.github.io/rothenbach-historia/2018-01-09%2012.10.02.jpg" data-canonical-
+src="https://chrothenbach.github.io/rothenbach-historia/2018-01-09%2012.10.02.jpg" width="200" height="400" />
+
 
 <h2> Links externos y demas</h2> 
 
