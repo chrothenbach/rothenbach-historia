@@ -13,8 +13,8 @@ Sobre el autor: Foto autor
 
 Escudo Schwabians
 
-[Foto historia del banat](2018-01-09 12.10.02.jpg)
-
+(2018-01-09 12.10.02.jpg)
+![Foto historia del banat](https://chrothenbach.github.io/rothenbach-historia/2018-01-09%2012.10.02.jpg)
 
 
 <h2> Links externos y demas</h2> 
