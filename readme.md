@@ -13,7 +13,7 @@ Sobre el autor: Foto autor
 
 Escudo Schwabians
 
-Foto historia del banat
+[Foto historia del banat](rothenbach-historia/2018-01-09 12.10.02.jpg)
 
 
 
