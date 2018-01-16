@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!--[if IE 7]><script>document.documentElement.className += ' ie ie7';</script><![endif]-->
+    <!--[if IE 8]><script>document.documentElement.className += ' ie ie8';</script><![endif]-->
+    <!--[if IE 9]><script>document.documentElement.className += ' ie ie9';</script><![endif]-->
+
+    <title>RootsWeb.com Home Page</title>
+
+    <META NAME="description" CONTENT="RootsWeb - the Internet&#39;s oldest and largest FREE genealogical community.  An award winning genealogical resource with searchable databases, free Web space, mailing lists, message boards, and more.">
+    <META NAME="keywords" CONTENT="genealogy, WorldConnect, ancestry, World Connect, GEDCOM, Free, homepages, Social Security Death Index, mailing lists, message boards, search engine, databases, Web sites, websites, archives, ancestors, geneology">
+    <link rel="canonical" href="http://home.rootsweb.ancestry.com">
+
+    <!-- Standard .css files -->
+    <link href="https://www.ancestrycdn.com/ui/1.3.0/css/core.css" rel="stylesheet" />
+
+    <!-- This is for our internal CSS files.  -->
+    <link type="text/css" rel="stylesheet" href="https://www.ancestrycdn.com/aa-rw-home/261/stylesheets/layout.css">
+    <link type="text/css" rel="stylesheet" href="https://www.ancestrycdn.com/aa-rw-home/261/stylesheets/rwHome.css">
+
+    <meta name="google-site-verification" content="RRGdihAuU8IzdOZBjeJYWfxlQKBEkJvDfyQlWuUUvF4" />
+
+    <script id="jQuery" src="https://www.ancestrycdn.com/ui-static/lib/jquery/1.11.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://www.ancestrycdn.com/aa-rw-home/261/scripts/o3.js"></script>
+
+    
+    <!--[if lte IE 9]><script src="https://c.mfcreative.com/js/html5shiv.js"></script><![endif]-->
+</head>
+<body>
+<div id="banner"></div>
+<div id="header" align="center"><div id="header_div" align="center">
+    <div class="rwHeaderWrapper">
+        <div class="rwHeaderLeft">
+            <div class="rwHeaderLogo">
+                <a href="http://home.rootsweb.ancestry.com">
+                    <img width="314" border="0" height="69" src="/images/rw.gif">
+                </a>
+            </div>
+        </div>
+        <div class="rwHeaderRight">
+            <div class="rwHeaderRightTop">
+                <!-- if the username does not exist, output this: -->
+                <div class="rw_sn">Welcome to RootsWeb.com <a href="https://myaccount.rootsweb.com/signin">Sign in</a>&nbsp;</div>
+                <!-- otherwise, output this: -->
+                <!-- end if…-->
+            </div>
+            <div class="rwHeaderRightBottom">
+                <div class="rwHeaderRightBottomLeft"><a href="http://www.ancestry.com/s33216/t10989/grid1000/rd.ashx"><img width="183" border="0" height="42" src="/images/anc.gif"></a></div>
+                <div class="rwHeaderDiscoverBtn rwHeaderRightBottomRight"><a href="http://www.ancestry.com/s33216/t11016/grid1001/rd.ashx">DISCOVER MORE &gt;</a></div>
+            </div>
+        </div>
+        <table width="760" cellspacing="0" cellpadding="0" border="0">
+            <tbody>
+            <tr>
+                <td colspan="2">
+                    <div class="rwHeaderNav" id="nav">
+						
+							<a id="navHome" href="http://home.rootsweb.ancestry.com" title="Home" class="" style="border-left: 0;" >Home</a>
+						
+						
+							<a id="navSearch" href="http://home.rootsweb.ancestry.com" title="Searches" class=""  >Searches</a>
+						
+						
+							<a id="navTrees" href="http://home.rootsweb.ancestry.com" title="Family Trees" class=""  >Family Trees</a>
+						
+						
+							<a id="navMailing" href="http://lists.rootsweb.ancestry.com" title="Mailing Lists" class=""  >Mailing Lists</a>
+						
+						
+							<a id="navBoards" href="http://www.ancestry.com/s33216/t11581/grid1016/rd.ashx" title="Message Boards" class=""  >Message Boards</a>
+						
+						
+							<a id="navWebSites" href="http://home.rootsweb.ancestry.com" title="Web Sites" class=""  >Web Sites</a>
+						
+						
+							<a id="navPasswords" href="http://home.rootsweb.ancestry.com" title="Passwords" class=""  >Passwords</a>
+						
+						
+							<a id="navHelp" href="https://support.rootsweb.com/s/" title="Help" class=""  style="border-right: 0;">Help</a>
+						
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div></div>
+
+<div class="rwLayoutTopBottomAd">
+    <script type="text/javascript">OAS_AD('Top');</script>
+</div>
+
+<div class="pageContent">
+    <div class="page pagepadded" style="width: 800px;">
+    <h4 class="heading1" style="font-size: 48px; font-weight: 300; line-height:60px; text-align: center;">Rootsweb is currently unavailable</h4>
+    <p>Rootsweb is currently unavailable. We have been in the process of improving the site throughout 2017, and as a result of an issue we recently became aware of, we have taken the site offline while we work to resolve it.</p>
+    <p>We apologize for any inconvenience this may cause, but protecting our users’ personal information is our top priority. During this down time, we are working to preserve all data saved to Rootsweb, and hope to have an update within a few weeks.</p>
+    <p>If you would like to learn more, please visit our <a href="https://blogs.ancestry.com/ancestry/2017/12/23/rootsweb-security-update/" target="_blog">blog post.</a></p>
+</div>
+
+<br>
+<br>
+</div>
+
+<div class="rwLayoutTopBottomAd">
+    <script type="text/javascript">OAS_AD('Bottom');</script>
+</div>
+
+<div id="footer" class="footer"><!-- /v1/3/3/1033/0 @ 2017-12-26T22:49:43Z --><div class="rwFooter" id="footer_div">
+	<hr width="90%" size="1" noshade style="text-align:center; margin: 20px auto;">
+	<p>
+		<font size="-2" face="Verdana, Arial, Helvetica, sans-serif">
+			RootsWeb is funded and supported by
+			<a href="http://www.ancestry.com/s33216/t10989/grid1005/rd.ashx">Ancestry.com</a> and our loyal RootsWeb community.
+			<a href="http://home.rootsweb.ancestry.com/support">Learn more.</a>
+			<br><br>
+			<a id="Ftr_About_Link" href="http://corporate.ancestry.com/">About Us</a>&nbsp|&nbsp<a id="Ftr_ContactUs_Link" href="https://support.rootsweb.com/s/contactsupport">Contact Us</a>&nbsp|&nbsp<a id="Ftr_AcceptableUsePolicy_Link" href="http://home.rootsweb.ancestry.com/aup">Acceptable Use Policy</a>&nbsp|&nbsp<a id="Ftr_Legal_Link" href="http://corporate.ancestry.com/about-ancestry/legal/">Copyright</a>
+			<br>
+			&copy; 1997-2017 Ancestry
+&nbsp|&nbsp<a id="Ftr_CorporateInfo_Link" href="https://www.ancestry.com/corporate/">Corporate Information</a>&nbsp|&nbsp<a id="Ftr_Privacy_Link" href="http://www.ancestry.com/cs/legal/privacyphilosophy">Privacy</a>&nbsp|&nbsp<a id="Ftr_TermsAndConditions_Link" href="http://www.ancestry.com/cs/legal/termsandconditions">Terms and Conditions</a>
+		</font>
+	</p>
+	<img width="1" height="1" src="http://images.rootsweb.com/cgi-bin/session">
+</div>
+</div>
+
+</body>
+<script type="text/javascript">function revealServerName() { alert('standard-1338341374-sskwf'); }</script>
+
+<!-- Standard .js files -->
+<script src="https://www.ancestrycdn.com/ui-static/lib/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://www.ancestrycdn.com/ui/1.3.0/js/core.js"></script>
+<script>
+    Banner = {};
+    Banner.Id = '';
+    Banner.Type = '';
+    var env = 'prod';
+</script>
+
+<script type="text/javascript" src="https://www.ancestrycdn.com/aa-rw-home/261/scripts/banner.js"></script>
+<!--Tealium UDO -->
+<script type="text/javascript">
+var utag_data = {
+page_name:'ancestry rootsweb : home : home'
+ };
+</script>
+<script type="text/javascript">
+(function(a,b,c,d){ var env='prod'; try{ var domain = window.document.location.hostname.split('.'); domain = (domain.length > 2) ? domain[1] : domain[0]; if(/loc/.test(domain) || /dev/.test(domain)){  env = 'dev'; } else if (/stage/.test(domain)){ env = 'qa'; } }catch(e){} a='//tags.tiqcdn.com/utag/ancestry/rootsweb/'+ env +'/utag.js'; b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;a=b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d,a) })();
+</script>
+
+
+</html>
