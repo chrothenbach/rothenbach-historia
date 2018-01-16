@@ -4,11 +4,11 @@ Created on Tue Jan 16 08:16:22 2018
 
 @author: chrothenbach
 """
-#%%
+#%% clean html
 import urllib.request
 from bs4 import BeautifulSoup
 
-url = "http://news.bbc.co.uk/2/hi/health/2284783.stm"
+url = "file:///E:/Dropbox/rothenbach%20historia/History%20of%20Zerne.html"
 
 with urllib.request.urlopen(url) as read_url:
     html = read_url.read()
@@ -29,3 +29,12 @@ chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
 text = '\n'.join(chunk for chunk in chunks if chunk)
 
 print(text)
+
+#%%
+
+from googletrans import Translator
+translator = Translator()
+
+text_translation = translator.translate(text[10000:10250], src='en', dest='es')
+
+print(text_translation.text)
