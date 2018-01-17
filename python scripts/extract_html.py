@@ -58,7 +58,7 @@ for i in range(5,60):
 
 
 
-#%% translate
+#%% translate with googletrans
 
 from googletrans import Translator
 translator = Translator()
@@ -68,3 +68,10 @@ for page in range(5,60):
     print('Translating page' , page)
     page_translated = translator.translate(text_pages[page], src='en', dest='es')
     text_translation.append(page_translated.text)
+
+
+#%% translate with goslate
+
+import goslate
+gs = goslate.Goslate()
+text_translation = gs.translate(text,'es')
