@@ -30,11 +30,41 @@ text = '\n'.join(chunk for chunk in chunks if chunk)
 
 print(text)
 
-#%%
+#%%  break into chunks
+
+"""
+break into
+pages
+sentences
+
+"""
+
+lines = []
+for line in text:
+    lines.append(line)
+
+text_sample = text[2500:5000]
+print(text_sample)
+
+
+text_pages = []
+for i in range(5,60):
+    print('\n---------Finding page' , i, '--------')
+    page = '\n'+ str(i)
+    start = text.find(page) + len(page) 
+    end = text.find('\n'+str(i+1), start)
+    text_pages.append(text[start:end])
+
+
+
+
+#%% translate
 
 from googletrans import Translator
 translator = Translator()
 
-text_translation = translator.translate(text[10000:10250], src='en', dest='es')
-
-print(text_translation.text)
+text_translation = []
+for page in range(5,60):
+    print('Translating page' , page)
+    page_translated = translator.translate(text_pages[page], src='en', dest='es')
+    text_translation.append(page_translated.text)
